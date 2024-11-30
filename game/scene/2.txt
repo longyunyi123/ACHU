@@ -1,0 +1,3 @@
+changeBg:pexels-mo-eid-17877157.jpg;
+bgm:good-night-160166.mp3;
+choose:C:3.txt;

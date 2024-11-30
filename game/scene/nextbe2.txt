@@ -1,0 +1,6 @@
+bgm:s_Title.mp3;
+changeBg:BB2.png;
+B:那就，下次吧！ -fontSize=large;
+setTextbox:hide;
+intro:END   下次吧 -fontSize=large -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=5000;
+end;

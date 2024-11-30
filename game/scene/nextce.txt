@@ -1,0 +1,7 @@
+bgm:s_Title.mp3;
+changeBg:办公室.jpg;
+changeFigure:A01.png -left;
+AChu:继续干活，又是社畜人的一天...... -fontSize=default;
+intro:你什么都没发过去，|所以自然的什么也没发生，|但对于平凡的人生来说，|什么都没发生，是最好的事情了，|早上忙工作，晚上当同人女，|和同好一起聊聊剧情，分享口嗨，|灵感一来手搭在键盘上就开始埋头码字，|这样的日子对于你来说还算美好。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:END   好好过日子 -fontSize=large -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=5000;
+end;

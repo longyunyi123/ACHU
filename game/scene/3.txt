@@ -1,0 +1,3 @@
+changeBg:sunflower-1127174_1280.jpg;
+bgm:KP.MP3;
+choose:D:happy.txt;

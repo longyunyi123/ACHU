@@ -1,0 +1,10 @@
+changeBg:pexels-mo-eid-17877157.jpg;
+bgm:flower.MP3;
+changeFigure:C2.png -left;
+setTextbox:on;
+C:喜欢就好。 -fontSize=default;
+intro:收到花朵的你很开心，|在你看书的时候你能感受到花香，|想起了以前你确实养过花，|花瓶里只插着一支，摆放在书桌上，|这算是闲情逸致么？|你打算下次也买些花来装饰一下自己的书房。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+setTextbox:hide;
+changeFigure:none -left;
+intro:END 不用谢 -fontSize=large -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=5000;
+end;

@@ -1,0 +1,3 @@
+changeBg:coffee-2390136_1280.jpg;
+bgm:gipsy.mp3;
+choose:B:2.txt;

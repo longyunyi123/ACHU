@@ -1,0 +1,9 @@
+setTransition: -target= -enter=enter-from-bottom -exit=0;
+bgm:s_Title.mp3;
+changeBg:coffee-2390136_1280.jpg;
+setTextbox:on;
+AChu:看书，看书，放松一下！|今天也过得好快，感觉有些变得期待明天了。 -fontSize=default;
+changeFigure:A11.png;
+intro:每到空闲时刻，你都会选择去看书，|你已经养成了习惯，|看书总会让你平静下来，|虽然有时书中的剧情也会让你感到有些头大，|不过这也是乐趣之一。|明天又会读到哪一段章节，翻开哪一本新书呢？ -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:END   习惯成自然 -fontSize=large -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=5000;
+end;

@@ -1,0 +1,14 @@
+:回什么好呢？ -fontSize=default;
+:遇事不决表情包！ -fontSize=default;
+bgm:relaxing-afternoon-full-version-relaxing-and-easy-piano-music-112850.mp3;
+changeBg:living-room-8557308_1920.jpg;
+intro:可是等你发完了表情包之后，|又是一片寂静，|明明之前对面还连珠炮弹的发了很多消息，|你开始对“选项”这个词有点好奇，|如果你刚刚选择了去工作的话现在或许会不同？|选择了不同的“选项”能够发展出不一样的现状么？|你又怎么知道你刚做的决定是“选项”呢？|这只是一个想法而已，|就像现在你打算再去工作，|把现在发生的就当个小插曲。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:AD.jpg;
+D:表情包！！！ -fontSize=default;
+AChu:（这个表情包，看起来有点熟悉？） -fontSize=default;
+changeBg:night.jpeg;
+changeFigure:A11.png -right;
+:是我多虑了吧？ -fontSize=default;
+:接下来你打算 -fontSize=default;
+choose:有点累了，干脆明天再工作吧，不想在下班时间干活:start.txt|突然来了灵感，随笔记一下！:nextd3.txt;
+changeFigure: -right;
